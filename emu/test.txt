@@ -1,0 +1,10 @@
+= Hello =
+That was some h1 text, this is *bold*, and this is //italic//
+
+== In H2 Now ==
+_and underlined_ and how about *bold and _underlined_*
+and here's some text
+
+and some more
+=== And some H3 ===
+and a [index.php link to index.php] along with a [test.php] and [link a link to something else] or [[http://www.google.com/ externally entirely]]
